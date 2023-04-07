@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![info](https://github-readme-stats.vercel.app/api?username=strangeZombies&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
 **strangeZombies/strangeZombies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
