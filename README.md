@@ -1,8 +1,7 @@
 ### Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/strangeZombies?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
-![](https://visitor-badge.glitch.me/badge?page_id=strangeZombies.readme)
+
 **strangeZombies/strangeZombies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
